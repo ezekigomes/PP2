@@ -14,4 +14,8 @@
             top: 250px;
             text-align: center;
 		}
-		
+        
+        body img{
+            padding: 20px;
+            width: 180px;
+        }
